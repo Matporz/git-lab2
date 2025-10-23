@@ -1,3 +1,2 @@
-Autor:Mateusz Porzycki
-Kurs: DevOps
-Kurs: DevOps
+Autor: Mateusz Porzycki
+Kurs: Technologie DevOps 2025
