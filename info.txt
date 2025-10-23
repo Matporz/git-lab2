@@ -1,1 +1,2 @@
-Autor:Mateusz Porzycki
+Autor: Mateusz Porzycki
+Kurs: Technologie DevOps
